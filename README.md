@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Data Scientist at AarogyaAI <br>🤝 Experiencing Data Science Technology <br>🌱Doing more hands on Data Science technology <br>⚡ Fun fact I am talkative
+🔭 Associate AI Engineer at DeepQ-AI Buisness Solutions and Ex Data Scientist at AarogyaAI <br>🤝 Experiencing Data Science Technology <br>🌱Doing more hands on Data Science technology <br>⚡ Fun fact I am talkative
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🌐 Socials:
